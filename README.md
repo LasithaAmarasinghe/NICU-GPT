@@ -1,4 +1,4 @@
-# NICU-GPT: Neonatal-Llama Clinical Decision Support System
+# NICU-GPT: Neonatal Clinical Decision Support System
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-ee4c2c.svg)
