@@ -32,7 +32,6 @@
 - [Model Export](#model-export)
 - [Usage Examples](#usage-examples)
 - [Technical Details](#technical-details)
-- [Citation](#citation)
 
 ---
 
